@@ -25,8 +25,11 @@ paperless billing, monthly charges, and total charges Demographic info about cus
 
 Scope:
 ● Exploring insights about customer behaviour
+
 ● Data Pre-processing
+
 ● Training multiple classification algorithms to predict customer churn
+
 ● Evaluating the model with various metrics like Accuracy, AUC ROC, Precision, etc. 
 and improve the score using statistical analysis over time.
 
